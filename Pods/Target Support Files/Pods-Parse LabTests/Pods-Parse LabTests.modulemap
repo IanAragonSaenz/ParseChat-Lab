@@ -1,0 +1,6 @@
+framework module Pods_Parse_LabTests {
+  umbrella header "Pods-Parse LabTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
